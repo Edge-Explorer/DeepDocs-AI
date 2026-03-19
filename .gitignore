@@ -11,3 +11,9 @@ wheels/
 
 # Data Folder
 data/
+
+# Credintials .env
+*.env
+*.env
+.env
+.env.*
