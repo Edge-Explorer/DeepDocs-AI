@@ -14,6 +14,20 @@ data/
 
 # Credintials .env
 *.env
-*.env
 .env
 .env.*
+
+# Secret Keys and Credentials
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+secrets/
+credentials/
+.aws/
+service-account*.json
+*_rsa
+*_dsa
+*_ecdsa
+*_ed25519
