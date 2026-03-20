@@ -20,4 +20,5 @@ dependencies = [
     "ipywidgets>=8.1.8",
     "google-generativeai>=0.8.6",
     "nest-asyncio>=1.6.0",
+    "llama-index-retrievers-bm25>=0.7.1",
 ]
