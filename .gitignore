@@ -31,3 +31,6 @@ service-account*.json
 *_dsa
 *_ecdsa
 *_ed25519
+
+# --- RAG Storage ---
+storage/
